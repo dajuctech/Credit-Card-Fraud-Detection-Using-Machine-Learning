@@ -113,10 +113,12 @@ Proper data handling (scaling, oversampling, SMOTE) improves model performance s
    cd Credit-Card-Fraud-Detection
 
 2. **Install Dependencies:**
+
 ```bash
 pip install -r requirements.txt
 
 3. **Run the Notebook:**
+
 Open `CreditCardFraudDetection.ipynb` in Jupyter Notebook or Google Colab.
 
 # Dependencies
