@@ -14,8 +14,6 @@ This project uses machine learning to spot fraudulent credit card transactions. 
 - [Modeling](#modeling)
 - [Model Comparison](#model-comparison)
 - [Conclusion](#conclusion)
-- [How to Run](#how-to-run)
-- [Dependencies](#dependencies)
 
 ---
 
