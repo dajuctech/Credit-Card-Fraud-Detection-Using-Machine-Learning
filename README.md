@@ -104,32 +104,4 @@ Proper data handling (scaling, oversampling, SMOTE) improves model performance s
 
 ---
 
-## How to Run
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
-   cd Credit-Card-Fraud-Detection
-
-2. **Install Dependencies:**
-
-```bash
-pip install -r requirements.txt
-
-3. **Run the Notebook:**
-
-Open `CreditCardFraudDetection.ipynb` in Jupyter Notebook or Google Colab.
-
-# Dependencies
-
-* Python 3.x
-* pandas
-* numpy
-* seaborn
-* matplotlib
-* scikit-learn
-* imbalanced-learn
-* xgboost
-
 
